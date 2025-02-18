@@ -6,11 +6,12 @@ body {
 figure {
     width: 20%;
     background: /*#EFD6F6*/ white;
-    ;
+    
 }
 
 img {
     width: 80%;
+    margin: auto;
 }
 
 img#PSB {
@@ -18,8 +19,9 @@ img#PSB {
 }
 
 section {
-    background: pink;
+    background: #b08eec;
     width: 90%;
     margin: auto;
-    padding:1em;
+    padding: 1em;
 }
+
