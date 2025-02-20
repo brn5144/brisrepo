@@ -24,4 +24,13 @@ section {
     margin: auto;
     padding: 1em;
 }
-
+div.flex{
+    position: absolute;
+  top: 186px;
+  right: 85px;
+ 
+}
+p.c{
+    position: relative;
+    text-align: center;
+}
