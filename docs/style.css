@@ -5,7 +5,7 @@ body {
 
 figure {
     width: 20%;
-    background: /*#EFD6F6*/ white;
+    background: #e4bcf8;
     
 }
 
@@ -24,31 +24,37 @@ section {
     margin: auto;
     padding: 1em;
 }
-div.flex{
+div.chipotle{
     position: absolute;
   top: 379px;
   right: 85px;
  
 }
-p.c{
+img.entrance{
+    position: absolute;
+    width: 120%;
+    top: 100px;
+    right: 0px;
+}
+p.line{
     position: relative;
     text-align: center;
 }
-ul.g{
+ul.spacing{
     line-height: 1.8;
 }
-div.f{
+div.eatnpark{
     position: absolute;
   top: 708px;
   right: 85px;
 }
-img.p{
+img.profile{
     width: 15%;
     position: absolute;
   top: 115px;
   right: 100px;
 }
-div.t{
+div.profileBackground{
     width: 17%;
     height: 38%;
     position: absolute;
@@ -56,11 +62,11 @@ div.t{
   right: 85px;
     background-color: #8528b4;
 }
-h2.h{
+h2.header{
     position:relative;
     text-align:center;
 }
-p.k{
+p.erie{
     position:absolute;
     top: 1178px;
     right: 85px;
@@ -70,4 +76,34 @@ div.na{
     top: 1307px;
     right: 85px;
 }
+h2.inquiry{
+    position: relative;
+    text-align: center;
+}
+p.home{
+    position: relative;
+    text-align: center;
+}
+img.imgsize{
+    width: 30%;
+}
+img.imgsize2{
+    width: 25%;
+}
+img.imgsize3{
+    width: 30%;
+}
 
+img.bold{
+    position: absolute;
+    top: 100px;
+    height: 60%;
+    left: 10px;
+    width: 120%;
+}
+section.home {
+    background: none;
+    width: 90%;
+    margin: auto;
+    padding: 1em;
+}
