@@ -116,3 +116,12 @@ p.ind{
 div.flex{
     display: flex;
 }
+div.flex figure{
+    width: 100%;
+}
+figure.flex img{
+    width: 100%;
+}
+p.spacing{
+    line-height: 1.8;
+}
